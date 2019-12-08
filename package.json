@@ -1,0 +1,12 @@
+{
+  "name": "is-yarn-installed",
+  "version": "1.0.0",
+  "description": "A simple node module to check if yarn is installed",
+  "main": "index.js",
+  "repository": "git@github.com:guilherssousa/isYarnInstalled.git",
+  "author": "Guilherme S. Sousa",
+  "license": "MIT",
+  "dependencies": {
+    "command-exists": "^1.2.8"
+  }
+}
