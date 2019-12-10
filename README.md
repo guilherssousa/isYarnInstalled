@@ -1,4 +1,4 @@
-## isYarnInstalled
+# isYarnInstalled
 
 A ultra-simple module to check if a command-line command exists.
 
@@ -40,4 +40,4 @@ isYarnInstalled(function (isInstalled) => {
 
 ## Thanks
 
-# To [@mathisonian](https://github.com/mathisonian) for all the code to detect if the system have the command installed.
+### To [@mathisonian](https://github.com/mathisonian) for all the code to detect if the system have the command installed.
